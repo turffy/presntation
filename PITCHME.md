@@ -1,7 +1,7 @@
 # Automation
 @snap[west]
 <br><br><br><br>
-@size[1.2em](Ac Perdon)<br>UIT PG
+(Ac Perdon)<br>UIT PG<br>20181025
 @snapend
 
 
