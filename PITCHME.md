@@ -1,5 +1,5 @@
 # Automation
-
+@transition[none]
 @snap[west]
 Ac Perdon
 P&G UIT
