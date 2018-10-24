@@ -1,12 +1,6 @@
 # Automation
-
-
-
-@snap[west]
 Ac Perdon
-P&G UIT
-20181025
-@sanpend
+
 
 
 ---
