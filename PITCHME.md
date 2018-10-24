@@ -1,10 +1,13 @@
-# Flux 
+# Automation
 
-An application architecture for React
+Ac Perdon
+P&G UIT
+20181025
+
 
 ---
 
-#### Flux Design
+### Flux Design
 
 - Dispatcher: Manages Data Flow
 - Stores: Handle State & Logic
