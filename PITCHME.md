@@ -1,8 +1,7 @@
 # Automation
-@snap[west]
+
 <br><br><br><br>
 ###### Ac Perdon<br>UIT PG<br>20181025
-@snapend
 
 
 ---
