@@ -6,16 +6,13 @@
 
 ---
 
-### Flux Design
+# WHAT IS AUTOMATION
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
 
 ---
-### Hello presentation
+### Automation
 
--this is my presentation
--can you see it
+- is the technology by which a process or procedure is performed without human assistance
+
 
 ---
